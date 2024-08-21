@@ -81,7 +81,7 @@ Follow these steps to set up the project on your local machine:
 git clone https://github.com/your_username/cv_do_you_know_me.git
 cd cv_do_you_know_me
 pip install -r requirements.txt
-
+```
 
 ### Team
 ------------------------------------------
